@@ -1,6 +1,6 @@
 # Loading Spinner
 
-A modern loading spinner animation using only HTML and CSS.
+A modern loading spinner animation using only HTML and CSS ♾ .
 
 ---
 
