@@ -1,2 +1,7 @@
-# Loading-Spinning-Animation
-Loading Spinning Animation with HTML &amp; CSS Only🐍
+# Loading Spinner
+
+A modern loading spinner animation using only HTML and CSS.
+
+---
+
+**Developer:** [mirnaahmed111](https://github.com/mirnaahmed111)
